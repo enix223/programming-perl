@@ -1,0 +1,4 @@
+{
+    "go.formatTool": "goimports",
+    "python.pythonPath": "/home/enix/anaconda3/bin/python"
+}
